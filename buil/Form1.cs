@@ -25,7 +25,12 @@ namespace buil
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("부일전자디자인고교 1학년 최지원");
+            Console.WriteLine("부일전자디자인고교 1학년 최지원.");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("부일 전자 디자인 고등학교 1학년 황지원 입니다.");
         }
     }
 }
