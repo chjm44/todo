@@ -19,8 +19,13 @@ namespace buil
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("부일 전자 디자인 고등학교 1학년 심승우 입나다")
+            Console.WriteLine("부일 전자 디자인 고등학교 1학년 심승우 입나다");
             
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("부일전자디자인고교 1학년 최지원");
         }
     }
 }
